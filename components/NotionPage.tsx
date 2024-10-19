@@ -281,8 +281,4 @@ export const NotionPage: React.FC<types.PageProps> = ({
       />
     </>
   )
-export default async function Page(){
-    //do whatever you want with the data
-  const posts = getPosts();
-}
 }
